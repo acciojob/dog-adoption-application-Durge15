@@ -10,4 +10,13 @@ width:200px;
 height:20px;
 width:200px;
 }
+.main-form{
+/* 	display:flex; */
+	width:300px;
+	background-color:blue;
+/* 	display-direction:column; */
+	align-items:center;
+	
+	
+}
 /* Your CSS Code here. */
