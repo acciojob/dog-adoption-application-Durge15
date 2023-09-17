@@ -22,6 +22,7 @@ width:200px;
 }
 body{
 		display:flex;
+	height:100vh;
 /* 	 	display-direction:column; */
 	justify-content:center;
 	align-items:center;
