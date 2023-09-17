@@ -15,8 +15,22 @@ width:200px;
 	width:300px;
 	background-color:blue;
 /* 	display-direction:column; */
+/* 	justify-content:center; */
+/* 	align-items:center; */
+	
+	
+}
+body{
+		display:flex;
+/* 	 	display-direction:column; */
+	justify-content:center;
 	align-items:center;
-	
-	
+}
+#checkbox{
+	border-radius:50%;
+	border:5px solid yellow;
+}
+#submit{
+	border-radius:10px;
 }
 /* Your CSS Code here. */
